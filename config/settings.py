@@ -140,8 +140,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'arpanmahatra1999ad@gmail.com'
-EMAIL_HOST_PASSWORD = 'Nepal@123gunj'
+EMAIL_HOST_USER = '/*Type your email here*/'
+EMAIL_HOST_PASSWORD = '/*Type your password here*/'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'Immunation <noreply@immunation.com>'
